@@ -6,7 +6,7 @@ var pn = prompt("What is your Pet's Name? ");
 alert("Thank you so much for the information.");
 
 
-if( (fn[0] == ln[0]) && (age>=20 && age <=30) && (pn>=170) && (pn[pn.length -1] =='y' ) ) {
+if( (fn[0] == ln[0]) && (age>=20 && age <=30) && (cn>=170) && (pn[pn.length -1] =='y' ) ) {
     console.log("Welcome Comrade! You've passed the Spy Test");
 }
 else {
